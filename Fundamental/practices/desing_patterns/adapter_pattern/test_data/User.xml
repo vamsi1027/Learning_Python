@@ -1,8 +1,0 @@
-<Contacts>
-    <Contact>
-        <full_name>vamsi</full_name>
-        <email>vamsi@gmail.com</email>
-        <phone_number>123</phone_number>
-        <is_friend>True</is_friend>
-    </Contact>
-</Contacts>
