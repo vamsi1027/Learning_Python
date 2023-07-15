@@ -1,0 +1,2 @@
+
+CONSTAN = ["python","python2"]
